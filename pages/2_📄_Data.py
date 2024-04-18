@@ -5,7 +5,7 @@ import streamlit as st
 data_dir = os.path.join("data")
 
 st.set_page_config(
-    page_title="Preview Data",
+    page_title="Data Sample",
     page_icon="📄",
     layout="wide"
 )
